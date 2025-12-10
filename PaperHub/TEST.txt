@@ -1,0 +1,19 @@
+Core Function Testing
+
+Batch Import: 
+   - Supports bulk import of papers from arXiv by keywords or categories
+
+Intelligent Search: 
+   - Multi-dimensional search based on title, abstract, tags, categories, and more
+
+Intelligent Recommendations:
+   - Semantic similarity recommendations based on sentence-transformers
+   - Personalized recommendations (based on reading history)
+   - Hybrid recommendation strategies
+
+Tag Management: 
+   - Many-to-many tag system for flexible categorization
+
+Statistical Analysis: 
+   - Visualized statistics on paper distribution, reading records, and more
+   

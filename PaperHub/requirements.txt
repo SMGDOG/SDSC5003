@@ -1,0 +1,15 @@
+streamlit
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pgvector
+pydantic
+sentence-transformers
+arxiv
+python-dotenv
+alembic
+pandas
+numpy
+torch
+requests
